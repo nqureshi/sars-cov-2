@@ -10,4 +10,4 @@
 **TODOS**:
 * Something to automatically parse the genome and grab the proteins, throw into a table sorted descending by length
 * Sequence comparison tool so you can see insertions/deletions from previous coronaviruses
-* 
+* Phylogenomic analysis based on the many genomes in GENEBANK and GISAID; look at transmission chains geographically 
